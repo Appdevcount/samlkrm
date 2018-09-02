@@ -1,0 +1,56 @@
+userName: AFawzi<br>
+domain: LOGISTICS<br>
+returnURL: http://localhost:52120/login.aspx<br>
+al.mahmoud  Sharkas83@gmail True
+userName: AFawzi<br>
+domain: LOGISTICS<br>
+returnURL: http://localhost:52120/login.aspx<br>
+RequestType: Login<br>
+al.mahmoud  Sharkas83@gmail True
+userName: AFawzi<br>
+domain: LOGISTICS<br>
+returnURL: http://localhost:52120/login.aspx<br>
+RequestType: Login<br>
+al.mahmoud  Sharkas83@gmail True
+ResponseID: _1af831bd-c010-4b3a-8c19-4f25a4c12792<br>
+returnURL: http://localhost:52120/authenticatedPage.aspx<br>
+RequestType: Logout<br>
+userName: AFawzi<br>
+domain: LOGISTICS<br>
+returnURL: http://localhost:52120/login.aspx<br>
+RequestType: Login<br>
+userName: AFawzi<br>
+domain: LOGISTICS<br>
+returnURL: http://localhost:52120/login.aspx<br>
+RequestType: Login<br>
+al.mahmoud  Sharkas83@gmail True
+ResponseID: _f96d726c-57ca-4397-a7d8-a1516bb7ffd7<br>
+returnURL: http://localhost:52120/authenticatedPage.aspx<br>
+RequestType: Logout<br>
+userName: AFawzi<br>
+domain: LOGISTICS<br>
+returnURL: http://localhost:52120/login.aspx<br>
+RequestType: Login<br>
+al.mahmoud  Sharkas83@gmail True
+userName: AFawzi<br>
+domain: LOGISTICS<br>
+returnURL: http://localhost:52120/login.aspx<br>
+RequestType: Login<br>
+al.mahmoud  Sharkas83@gmail True
+userName: AFawzi<br>
+domain: LOGISTICS<br>
+returnURL: http://localhost:52120/login.aspx<br>
+RequestType: Login<br>
+al.mahmoud  Sharkas83@gmail True
+ResponseID: _de0cdfae-cb14-447c-99fe-cba9ad94ef7a<br>
+returnURL: http://localhost:52120/authenticatedPage.aspx<br>
+RequestType: Logout<br>
+userName: sn.ruknudeen<br>
+domain: KGACHQ<br>
+returnURL: http://localhost:52120/login.aspx<br>
+RequestType: Login<br>
+userName: sn.ruknudeen<br>
+domain: KGACHQ<br>
+returnURL: http://localhost:52120/login.aspx<br>
+RequestType: Login<br>
+sn.ruknudeen  Ajility@071018 True

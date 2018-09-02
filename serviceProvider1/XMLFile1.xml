@@ -1,0 +1,49 @@
+﻿<Response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion" ID="_0d3d6141-94cf-4954-9a10-ca0caddc53b2" Version="2.0" IssueInstant="2018-08-06T15:27:38.7931151+03:00" Destination="http://localhost:52120/login.aspx" xmlns="urn:oasis:names:tc:SAML:2.0:protocol">
+  <saml:Issuer>Idp_Mohammed_Tahtamouni</saml:Issuer>
+  <Status>
+    <StatusCode Value="urn:oasis:names:tc:SAML:2.0:status:Success" />
+  </Status>
+  <saml:Assertion Version="2.0" ID="_5bb27f4b-f190-4bbc-9ae4-c4545fec353b" IssueInstant="2018-08-06T15:27:38.7941152+03:00">
+    <saml:Issuer>Idp_Mohammed_Tahtamouni</saml:Issuer>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+        <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+        <Reference URI="#_5bb27f4b-f190-4bbc-9ae4-c4545fec353b">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+            <Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+          <DigestValue>e5DxYO6UKAbt21WDryNmvYdFbxd7HmXUryOnsKlFUso=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>SVUqe9QFeVwtpgYvm9OMoAevS2n+pgCNtKD1mjGhyFawWc3kGrvAVAorbuKJwnr/fS0zSxeUkE8F/DrxVTd8xWJOjFn8KriqdFlMqpLxnLbEAabuIBjUf+Rss6RKOazlpm5jCzhrhr4k7hGZExL+bAWYzbt7ff+GrHAcP4dt2z8=</SignatureValue>
+      <KeyInfo>
+        <KeyValue>
+          <RSAKeyValue>
+            <Modulus>qfLbknPGfeOeZos/SbqGhR9CIPFt+0VURDZPi6iODvyDlFI3mHULCs0oLj/lA21bnjF6+9onFJ7kfpYms1djE4iEWOG3FbghtyurfGDpbtkQiI0jWadVfwnK69lyz8SsrFiZlQ5thcmaIKJTPw+J/zQANSZ0Rn3Ktb4i2ah6u+8=</Modulus>
+            <Exponent>AQAB</Exponent>
+          </RSAKeyValue>
+        </KeyValue>
+      </KeyInfo>
+    </Signature>
+    <saml:Subject>
+      <saml:NameID Format="urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified">Authentication</saml:NameID>
+      <saml:SubjectConfirmation Method="urn:oasis:names:tc:SAML:2.0:cm:bearer">
+        <saml:SubjectConfirmationData Recipient="http://localhost:52120/login.aspx" NotOnOrAfter="2018-08-06T15:32:38.7941152+03:00" />
+      </saml:SubjectConfirmation>
+    </saml:Subject>
+    <saml:Conditions NotBefore="2018-08-06T15:27:38.7941152+03:00" NotOnOrAfter="2018-08-06T15:32:38.7941152+03:00">
+      <saml:AudienceRestriction>
+        <saml:Audience>http://localhost:52120/login.aspx</saml:Audience>
+      </saml:AudienceRestriction>
+    </saml:Conditions>
+    <saml:AuthnStatement AuthnInstant="2018-08-06T15:27:38.7941152+03:00" SessionIndex="_5bb27f4b-f190-4bbc-9ae4-c4545fec353b">
+      <saml:AuthnContext>
+        <saml:AuthnContextClassRef>urn:oasis:names:tc:SAML:2.0:ac:classes:unspecified</saml:AuthnContextClassRef>
+      </saml:AuthnContext>
+    </saml:AuthnStatement>
+    <saml:AttributeStatement />
+  </saml:Assertion>
+</Response>

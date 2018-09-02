@@ -1,0 +1,6 @@
+userName: AFawzi<br>
+domain: LOGISTICS<br>
+returnURL: http://localhost:52120/login.aspx<br>
+userName: serviceProvider1<br>
+domain: IIS APPPOOL<br>
+returnURL: http://10.16.6.189:85/login.aspx<br>
